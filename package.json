@@ -1,0 +1,19 @@
+{
+  "name"        :  "@superhero/schedule",
+  "version"     :  "0.0.11",
+  "description" :  "schedule",
+  "repository"  :  "git@github.com:superhero/js.schedule.git",
+  "main"        :  "lib/main.js",
+  "license"     :  "MIT",
+  "keywords"    : ["schedule"],
+  "author"      :
+  {
+    "name"  : "Erik Landvall",
+    "email" : "erik@landvall.se",
+    "url"   : "http://erik.landvall.se"
+  },
+  "dependencies":
+  {
+    "@superhero/debug": "1.0.2"
+  }
+}
