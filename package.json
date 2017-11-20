@@ -1,6 +1,6 @@
 {
   "name"        :  "@superhero/schedule",
-  "version"     :  "0.0.11",
+  "version"     :  "0.0.12",
   "description" :  "schedule",
   "repository"  :  "git@github.com:superhero/js.schedule.git",
   "main"        :  "lib/main.js",
@@ -14,6 +14,6 @@
   },
   "dependencies":
   {
-    "@superhero/debug": "1.0.2"
+    "@superhero/debug": "1.0.4"
   }
 }
